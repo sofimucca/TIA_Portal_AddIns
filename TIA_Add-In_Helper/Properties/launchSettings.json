@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Debug AddIn (local)": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\etieti\\.nuget\\packages\\siemens.collaboration.net.tiaportal.addin.build\\17.0.1655723949\\contentFiles\\TiaAddInTester.exe",
+      "commandLineArgs": "--path \"C:\\Users\\etieti\\Documents\\Visual Studio 2022\\Projects\\TIA_Add-In_Helper\\bin\\Debug\\net48\\Add-In ETI.addin\"",
+      "workingDirectory": "C:\\Users\\etieti\\.nuget\\packages\\siemens.collaboration.net.tiaportal.addin.build\\17.0.1655723949\\contentFiles"
+    }
+  }
+}

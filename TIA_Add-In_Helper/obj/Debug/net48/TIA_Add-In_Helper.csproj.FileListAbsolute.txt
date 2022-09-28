@@ -1,0 +1,13 @@
+C:\Users\etieti\Documents\Visual Studio 2022\Projects\TIA_Add-In_Helper\obj\Debug\net48\TIA_Add-In_Helper.csproj.AssemblyReference.cache
+C:\Users\etieti\Documents\Visual Studio 2022\Projects\TIA_Add-In_Helper\obj\Debug\net48\TIA_Add_In_Helper.Form.resources
+C:\Users\etieti\Documents\Visual Studio 2022\Projects\TIA_Add-In_Helper\obj\Debug\net48\TIA_Add-In_Helper.csproj.GenerateResource.cache
+C:\Users\etieti\Documents\Visual Studio 2022\Projects\TIA_Add-In_Helper\obj\Debug\net48\TIA_Add-In_Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\etieti\Documents\Visual Studio 2022\Projects\TIA_Add-In_Helper\obj\Debug\net48\TIA_Add-In_Helper.AssemblyInfoInputs.cache
+C:\Users\etieti\Documents\Visual Studio 2022\Projects\TIA_Add-In_Helper\obj\Debug\net48\TIA_Add-In_Helper.AssemblyInfo.cs
+C:\Users\etieti\Documents\Visual Studio 2022\Projects\TIA_Add-In_Helper\obj\Debug\net48\TIA_Add-In_Helper.csproj.CoreCompileInputs.cache
+C:\Users\etieti\Documents\Visual Studio 2022\Projects\TIA_Add-In_Helper\bin\Debug\net48\TIA_Add-In_Helper.dll
+C:\Users\etieti\Documents\Visual Studio 2022\Projects\TIA_Add-In_Helper\bin\Debug\net48\TIA_Add-In_Helper.pdb
+C:\Users\etieti\Documents\Visual Studio 2022\Projects\TIA_Add-In_Helper\bin\Debug\net48\Siemens.Collaboration.Net.TiaPortal.AddIn.Extensions.dll
+C:\Users\etieti\Documents\Visual Studio 2022\Projects\TIA_Add-In_Helper\obj\Debug\net48\TIA_Add-In_Helper.csproj.CopyComplete
+C:\Users\etieti\Documents\Visual Studio 2022\Projects\TIA_Add-In_Helper\obj\Debug\net48\TIA_Add-In_Helper.dll
+C:\Users\etieti\Documents\Visual Studio 2022\Projects\TIA_Add-In_Helper\obj\Debug\net48\TIA_Add-In_Helper.pdb

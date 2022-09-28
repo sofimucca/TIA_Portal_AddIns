@@ -1,0 +1,41 @@
+C:\Program Files\Siemens\Automation\Portal V17\PublicAPI\V17.AddIn\Siemens.Engineering.AddIn.Publisher.exe --> 28/09/2022 06:07:16 UTC
+
+Calling Arguments:
+--configuration              :C:\Users\etieti\Documents\Visual Studio 2022\Projects\TIA_Add-In_Helper\bin\Debug\net48\Publisher.config
+--logfile                    :C:\Users\etieti\Documents\Visual Studio 2022\Projects\TIA_Add-In_Helper\bin\Debug\net48\Publisher.log
+--outfile                    :C:\Users\etieti\Documents\Visual Studio 2022\Projects\TIA_Add-In_Helper\bin\Debug\net48\Add-In ETI.addin
+--verbose                    :True
+--console                    :False
+--pause                      :False
+
+Packaging engineering version.
+Packaging main assembly 'tia_add-in_helper, version=1.0.0.0, culture=neutral, publickeytoken=null, processorarchitecture=msil'.
+Packaging Id.
+Packaging ProductName.
+Packaging multiuser settings information.
+Packaging Permission 'System.Configuration.ConfigurationPermission'.
+Packaging Permission 'System.Data.Odbc.OdbcPermission'.
+Packaging Permission 'System.Data.OleDb.OleDbPermission'.
+Packaging Permission 'System.Data.SqlClient.SqlClientPermission'.
+Packaging Permission 'System.Diagnostics.EventLogPermission'.
+Packaging Permission 'System.Drawing.Printing.PrintingPermission'.
+Packaging Permission 'System.Net.Mail.SmtpPermission'.
+Packaging Permission 'System.Net.NetworkInformation.NetworkInformationPermission'.
+Packaging Permission 'System.Net.SocketPermission'.
+Packaging Permission 'System.Net.WebPermission'.
+Packaging Permission 'System.Security.Permissions.EnvironmentPermission'.
+Packaging Permission 'System.Security.Permissions.FileDialogPermission'.
+Packaging Permission 'System.Security.Permissions.FileIOPermission'.
+Packaging Permission 'System.Security.Permissions.IsolatedStorageFilePermission'.
+Packaging Permission 'System.Security.Permissions.KeyContainerPermission'.
+Packaging Permission 'System.Security.Permissions.RegistryPermission'.
+Packaging Permission 'System.Security.Permissions.StorePermission'.
+Packaging Permission 'System.Security.Permissions.UIPermission'.
+Packaging Permission 'System.Security.Permissions.WebBrowserPermission'.
+Packaging Permission 'System.Security.Permissions.MediaPermission'.
+Packaging Permission 'System.Security.Permissions.SecurityPermission.UnmanagedCode'.
+Packaging Permission 'Siemens.Engineering.AddIn.Permissions.ProcessStartPermission'.
+Packaging Permission 'TIA.ReadWrite'.
+Packaging PDB 'FeatureAssembly_Pdb'.
+
+ --> S U C C E E D E D <-- (0,170s)

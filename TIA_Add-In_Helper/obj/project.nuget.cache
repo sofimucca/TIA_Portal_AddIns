@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "95q+BwPyhArhP+YvbMuYAym8dopgsPdQ5EjHgwqTLrGgOYKfi4VUM8CUO1SiuENa9NRARYIcMqTEuv4L/YRDVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\etieti\\Documents\\Visual Studio 2022\\Projects\\TIA_Add-In_Helper\\TIA_Add-In_Helper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\etieti\\.nuget\\packages\\siemens.collaboration.net.tiaportal.addin.build\\17.0.1655723949\\siemens.collaboration.net.tiaportal.addin.build.17.0.1655723949.nupkg.sha512"
+  ],
+  "logs": []
+}

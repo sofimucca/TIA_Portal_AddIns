@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)siemens.collaboration.net.tiaportal.addin.build\17.0.1655723949\buildTransitive\Siemens.Collaboration.Net.TiaPortal.AddIn.Build.targets" Condition="Exists('$(NuGetPackageRoot)siemens.collaboration.net.tiaportal.addin.build\17.0.1655723949\buildTransitive\Siemens.Collaboration.Net.TiaPortal.AddIn.Build.targets')" />
+  </ImportGroup>
+</Project>
